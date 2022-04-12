@@ -1,0 +1,38 @@
+1. 	General Project Information
+a.    How many days until Remi Wolf’s concert?
+b.    Reaches a specific audience quickly 
+3. 	Stakeholders (significant interest in or those impacted by the project)
+a.     Let's people who are interested in attending or will be attending the concert on September 14 and 15. 
+4. 	Project Scope Statement
+a.     Project Purpose / Business Justification (what is the business need?)
+The purpose of this project is to bring more awareness to Remi Wolf’s tour by bringing in more people to attend concerts for artists by communicating with Alexa.  
+b.     Objectives (what problem are you solving, what are you trying to achieve?)
+We are trying to make sure that audiences know who will be performing on those days at The Warfield in San Francisco. Even if fans are aware of her tour, many may be wondering who will be touring in the city in September. Therefore asking Alexa questions like “Who is Remi Wolf?” and leading to more attendance. This also helps fans with tracking how many days they have left until their concert date. 
+c.     Deliverables (list of high-level products to be delivered)
+                                               i. 	Interaction model, Amazon Alexa, Github account
+d.     Scope (what is included and excluded in the project)
+They will be provided with many of the tour dates but it may be harder for Alexa to determine which date the user is talking about. 
+e.     Milestones (start and end dates for project phases)
+                                               i. 	Start April 12 - End September 15, 2022
+f.      Risks and Assumptions (what obstacles may cause the project to fail?)
+Some people will be asking the wrong questions which would potentially lead them to different tour dates. They have to specifically ask in which city they are in depending on where they live. There are also two dates to The Warfield, so there might be a mix-up there too. 
+5. 	Communication Strategy (how will this be communicated)
+There needs to be some assistance in case the user is getting dates mixed up. They could ask follow-up questions along with their main question in order to get the correct information. 
+
+Information to Include When Documenting AI Projects for the Newsroom
+(Marconi, 2.1)
+ 
+1.     Overview: What AI system is being used and what are its attributes? 
+
+
+Amazon Alexa provides voice interaction, music playback, making to-do lists, setting alarms, streaming podcasts, playing audiobooks, and providing weather, traffic, sports, and other real-time information, such as news. 
+a.     Ease of use, Cost, Functionality?
+-Very easy use
+-$30-300 (if you get any home smart devices to connect Alexa too like Echo Dot or Echo Show)
+2.     Methodology: Why was this particular NLP chatbot chosen?
+-I believe Alexa’s voice interaction appeals more to the target audience specifically young adults and millennials. 
+3.     Process: What steps were taken to ensure editorial quality and accurate results?
+-Maybe linking certain questions to get more accurate results.
+4.     Edge Cases: What potential errors were flagged with the data?
+a.     Where are the weaknesses?
+-The question might be a little vague to some users and they might end up getting different results. 
